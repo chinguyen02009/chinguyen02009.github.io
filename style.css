@@ -351,12 +351,15 @@ header{
 	min-height: 35px;
 }
 .form-style-9 ul li  .field-style{
-	box-sizing: border-box; 
+	/* box-sizing: border-box;  */
 	background: transparent;
 	/* -webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;  */
 	padding: 8px;
 	outline: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
 	border-bottom: 2 solid #000000;
 	-webkit-transition: all 0.30s ease-in-out;
 	-moz-transition: all 0.30s ease-in-out;
